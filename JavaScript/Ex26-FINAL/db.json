@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "id": "4b96",
+      "name": "banco",
+      "amount": 90000
+    },
+    {
+      "id": "c238",
+      "name": "agua",
+      "amount": -3000
+    },
+    {
+      "id": "0dde",
+      "name": "caroo",
+      "amount": -14009
+    }
+  ]
+}
